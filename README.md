@@ -27,3 +27,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 [![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
