@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: laibashakil
+          CREDLY_USER: laibashakil2
