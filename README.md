@@ -25,3 +25,5 @@
 - [Is ChatGPT threatening the future of Developers?](https://medium.com/@laibashakil2/is-chatgpt-threatening-the-future-of-developers-601d7309dc73?source=rss-9ebbaf021527------2)
 - [The Many Faces of the Metaverse](https://medium.com/@laibashakil2/the-many-faces-of-the-metaverse-358dc15a5164?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
+
+[![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
