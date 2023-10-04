@@ -16,3 +16,7 @@
 <a href="https://www.leetcode.com/laibashakil2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laibashakil2" height="30" width="40" /></a>
 </p>
 
+## 📝 Recent Blog posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
