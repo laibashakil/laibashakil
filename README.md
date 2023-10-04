@@ -26,7 +26,9 @@
 - [The Many Faces of the Metaverse](https://medium.com/@laibashakil2/the-many-faces-of-the-metaverse-358dc15a5164?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 🏅 My Badges:
 [![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
+
 <!--START_SECTION:badges-->
 [![Applied Data Science Specialization (V2)](https://images.credly.com/size/110x110/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](http://www.credly.com/badges/55fcc902-9778-41b2-ab39-d372bb0ea42a "Applied Data Science Specialization (V2)")
 [![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png)](http://www.credly.com/badges/7b427024-8665-4114-9ac6-9c76c261abcd "Applied Data Science Capstone")
