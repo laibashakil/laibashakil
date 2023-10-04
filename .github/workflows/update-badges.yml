@@ -4,12 +4,16 @@ on:
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0        
+        uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: laiba-shakil
