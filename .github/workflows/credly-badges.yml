@@ -1,0 +1,14 @@
+name: Credly badges
+
+on:
+    schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: laiba-shakil
