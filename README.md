@@ -21,11 +21,11 @@
 ## 📝 Recent Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will ChatGPT ever replace Google?](https://medium.com/@laibashakil2/will-chatgpt-ever-dethrone-google-c0c2d761ab9d?source=rss-9ebbaf021527------2)
-- [Better Data, Better AI](https://medium.com/@laibashakil2/better-data-better-ai-58afebf33b43?source=rss-9ebbaf021527------2)
-- [Could Space Vacations be the next big thing?](https://medium.com/@laibashakil2/could-space-vacations-be-the-next-big-thing-1f45232345a4?source=rss-9ebbaf021527------2)
-- [Is ChatGPT threatening the future of Developers?](https://medium.com/@laibashakil2/is-chatgpt-threatening-the-future-of-developers-601d7309dc73?source=rss-9ebbaf021527------2)
-- [The Many Faces of the Metaverse](https://medium.com/@laibashakil2/the-many-faces-of-the-metaverse-358dc15a5164?source=rss-9ebbaf021527------2)
+- [Will ChatGPT ever replace Google?](https://medium.com/@laibashakil/will-chatgpt-ever-dethrone-google-c0c2d761ab9d?source=rss-9ebbaf021527------2)
+- [Better Data, Better AI](https://medium.com/@laibashakil/better-data-better-ai-58afebf33b43?source=rss-9ebbaf021527------2)
+- [Could Space Vacations be the next big thing?](https://medium.com/@laibashakil/could-space-vacations-be-the-next-big-thing-1f45232345a4?source=rss-9ebbaf021527------2)
+- [Is ChatGPT threatening the future of Developers?](https://medium.com/@laibashakil/is-chatgpt-threatening-the-future-of-developers-601d7309dc73?source=rss-9ebbaf021527------2)
+- [The Many Faces of the Metaverse](https://medium.com/@laibashakil/the-many-faces-of-the-metaverse-358dc15a5164?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏅 My Badges:
