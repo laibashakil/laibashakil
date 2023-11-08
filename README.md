@@ -32,6 +32,7 @@
 [![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
 
 <!--START_SECTION:badges-->
+[![Data Science Professional Certificate (V2)](https://images.credly.com/size/110x110/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](http://www.credly.com/badges/cf664e17-a9db-403e-b1f7-8ab666bdf84b "Data Science Professional Certificate (V2)")
 [![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/de637587-69ac-462d-bad2-24d7b6367985 "Machine Learning with Python")
 [![Applied Data Science Specialization (V2)](https://images.credly.com/size/110x110/images/fa32e912-a95a-478b-926f-3b98b586e55c/Adv_Data_Science_Specialization.png)](http://www.credly.com/badges/55fcc902-9778-41b2-ab39-d372bb0ea42a "Applied Data Science Specialization (V2)")
 [![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png)](http://www.credly.com/badges/7b427024-8665-4114-9ac6-9c76c261abcd "Applied Data Science Capstone")
