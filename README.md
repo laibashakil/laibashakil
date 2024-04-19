@@ -7,7 +7,7 @@
 
 ## 📊 My GitHub History:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laibashakil&show_icons=true&locale=en" alt="laibashakil" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laibashakil&show_icons=true&locale=en&layout=compact" alt="laibashakil" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibashakil&hide_progress=true)
 
 
 ## 🔗 Connect with me:
