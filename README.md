@@ -31,6 +31,7 @@
 ## 🏅 My Badges:
 [![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
 <!--START_SECTION:badges-->
+[![GitHub Foundations](https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/62e65480-2406-45fb-9857-fc2918924637 "GitHub Foundations")
 [![Data Science Fundamentals Specialization (V2)](https://images.credly.com/size/100x100/images/d229e473-4e74-4852-a355-7242f764ebe7/image.png)](http://www.credly.com/badges/4f3025d0-f697-46ef-a16d-b69357823f0c "Data Science Fundamentals Specialization (V2)")
 [![Statistics for Data Science with Python](https://images.credly.com/size/100x100/images/f27d3b7c-e2b2-4816-9656-c10da20b7296/image.png)](http://www.credly.com/badges/747e91a2-785a-45d3-a8e6-40f95661587b "Statistics for Data Science with Python")
 [![IBM Data Science Professional Certificate](https://images.credly.com/size/100x100/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png)](http://www.credly.com/badges/cf664e17-a9db-403e-b1f7-8ab666bdf84b "IBM Data Science Professional Certificate")
