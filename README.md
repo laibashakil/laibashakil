@@ -55,7 +55,7 @@
     <img src="https://images.credly.com/size/100x100/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png" width="100" height="100">
 </a>
 <a href="http://www.credly.com/badges/24cfd56f-08de-4831-9693-6ac8e44b3e06" title="Python for Data Science and AI">
-    <img src="https://images.credly.com/size/100x100/images/b6aa0bc8-1f0a-4939-beef-d073fa3fff9c/image.png" width="100" height="100">
+    <img src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100" height="100">
 </a>
 <a href="http://www.credly.com/badges/529cb6d9-f770-4210-9905-62b790e076bc" title="Databases and SQL for Data Science">
     <img src="https://images.credly.com/size/100x100/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png" width="100" height="100">
