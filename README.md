@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏅 My Badges:
-[![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
+![image](https://github.com/user-attachments/assets/43173908-6d42-40e1-934b-9a6176760769)
 <a href="http://www.credly.com/badges/62e65480-2406-45fb-9857-fc2918924637" title="GitHub Foundations">
     <img src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100">
 </a>
