@@ -31,6 +31,7 @@
 
 ## 🏅 My Badges:
 <!--START_SECTION:badges-->
+[![Analyze Sentiment with Natural Language API Skill Badge](https://images.credly.com/size/100x100/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png)](http://www.credly.com/badges/5bdf6807-191d-424b-8e70-f992a47399cf "Analyze Sentiment with Natural Language API Skill Badge")
 [![Perform Predictive Data Analysis in BigQuery Skill Badge](https://images.credly.com/size/100x100/images/d41246ef-1f8e-4b3a-b93d-034e7c66e309/image.png)](http://www.credly.com/badges/a03c3548-e82b-4bbb-8d77-a2500adbf2a9 "Perform Predictive Data Analysis in BigQuery Skill Badge")
 [![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/100x100/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](http://www.credly.com/badges/5c6a4c40-3a6c-43cb-a307-cb2dda16bfac "The Basics of Google Cloud Compute Skill Badge")
 [![Create ML Models with BigQuery ML Skill Badge](https://images.credly.com/size/100x100/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png)](http://www.credly.com/badges/d88cf582-d8d1-4c59-a274-0c5ebf5751c6 "Create ML Models with BigQuery ML Skill Badge")
