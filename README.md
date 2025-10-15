@@ -22,11 +22,11 @@
 ## 📝 Recent Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [The “AI Bubble” Isn’t What Most People Think It Is](https://medium.com/@laibashakil/the-ai-bubble-isnt-what-most-people-think-it-is-0c2618974932?source=rss-9ebbaf021527------2)
 - [Is AI Making You Lazy? Or Are You Just Not Using It Right?](https://medium.com/@laibashakil/is-ai-making-you-lazy-or-are-you-just-not-using-it-right-b70d1d2ee2da?source=rss-9ebbaf021527------2)
 - [Will ChatGPT ever replace Google?](https://medium.com/@laibashakil/will-chatgpt-ever-dethrone-google-c0c2d761ab9d?source=rss-9ebbaf021527------2)
 - [Better Data, Better AI](https://medium.com/@laibashakil/better-data-better-ai-58afebf33b43?source=rss-9ebbaf021527------2)
 - [Could Space Vacations be the next big thing?](https://medium.com/@laibashakil/could-space-vacations-be-the-next-big-thing-1f45232345a4?source=rss-9ebbaf021527------2)
-- [Is ChatGPT threatening the future of Developers?](https://medium.com/@laibashakil/is-chatgpt-threatening-the-future-of-developers-601d7309dc73?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏅 My Badges:
