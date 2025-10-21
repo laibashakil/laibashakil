@@ -55,3 +55,4 @@
 <a href="https://www.credly.com/badges/99071721-5c76-40fb-8b30-0a3791ee6508" title="Tools for Data Science V2"><img src="https://images.credly.com/size/80x80/images/1447954e-9923-4703-a647-eac80e5f0682/image.png" alt="Tools for Data Science V2" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3ea43b3a-e717-4a2d-93ec-03159a3deae4" title="Data Science Orientation"><img src="https://images.credly.com/size/80x80/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="Data Science Orientation" width="80" height="80"></a>
 <!--END_SECTION:badges-->
+[![An image of @laibashakil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laibashakil)](https://holopin.io/@laibashakil)
