@@ -31,6 +31,8 @@
 
 ## 🏅 My Badges:
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/dcffbecf-6778-4fc5-9671-a9bc9572f589" title="Build a Website on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/cfcacbf1-1f76-40ad-be09-a5b057e31ebf/image.png" alt="Build a Website on Google Cloud Skill Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/45f9efc9-1499-4d9c-9711-9c3b202189ef" title="Prompt Design in Vertex AI Skill Badge"><img src="https://images.credly.com/size/80x80/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5bdf6807-191d-424b-8e70-f992a47399cf" title="Analyze Sentiment with Natural Language API Skill Badge"><img src="https://images.credly.com/size/80x80/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png" alt="Analyze Sentiment with Natural Language API Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a03c3548-e82b-4bbb-8d77-a2500adbf2a9" title="Perform Predictive Data Analysis in BigQuery Skill Badge"><img src="https://images.credly.com/size/80x80/images/d41246ef-1f8e-4b3a-b93d-034e7c66e309/image.png" alt="Perform Predictive Data Analysis in BigQuery Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5c6a4c40-3a6c-43cb-a307-cb2dda16bfac" title="The Basics of Google Cloud Compute Skill Badge"><img src="https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" alt="The Basics of Google Cloud Compute Skill Badge" width="80" height="80"></a>
