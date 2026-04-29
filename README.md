@@ -133,11 +133,11 @@
 ### ✍️ latest on medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Isn’t Hard to Use. It’s Hard to Use Well.](https://medium.com/@laibashakil/claude-isnt-hard-to-use-it-s-hard-to-use-well-1498a86a529a?source=rss-9ebbaf021527------2)
 - [No, AI Doesn’t Make School Pointless. It Makes It More Important.](https://medium.com/@laibashakil/no-ai-doesnt-make-school-pointless-it-makes-it-more-important-04346c1471c8?source=rss-9ebbaf021527------2)
 - [The “AI Bubble” Isn’t What Most People Think It Is](https://medium.com/@laibashakil/the-ai-bubble-isnt-what-most-people-think-it-is-0c2618974932?source=rss-9ebbaf021527------2)
 - [Is AI Making You Lazy? Or Are You Just Not Using It Right?](https://medium.com/@laibashakil/is-ai-making-you-lazy-or-are-you-just-not-using-it-right-b70d1d2ee2da?source=rss-9ebbaf021527------2)
 - [Will ChatGPT ever replace Google?](https://medium.com/@laibashakil/will-chatgpt-ever-dethrone-google-c0c2d761ab9d?source=rss-9ebbaf021527------2)
-- [Better Data, Better AI](https://medium.com/@laibashakil/better-data-better-ai-58afebf33b43?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
