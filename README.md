@@ -118,18 +118,6 @@
 
 ---
 
-### 📊 github stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=laibashakil&hide=stars,issues&show=prs_merged_percentage&show_icons=true&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=00000000&title_color=ce93d8&icon_color=b39ddb&text_color=e1bee7" />
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibashakil&hide_progress=true&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=00000000&title_color=ce93d8&text_color=e1bee7" />
-
-</div>
-
----
-
 ### ✍️ latest on medium
 
 <!-- BLOG-POST-LIST:START -->
