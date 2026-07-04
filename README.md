@@ -121,11 +121,11 @@
 ### ✍️ latest on medium
 
 <!-- BLOG-POST-LIST:START -->
+- [If AI Can Write the Code, Why Have Junior Engineers?](https://medium.com/@laibashakil/if-ai-can-write-the-code-why-have-junior-engineers-6539ebe6d9cc?source=rss-9ebbaf021527------2)
 - [What I Learned Translating Business Problems Into AI Solutions](https://medium.com/@laibashakil/what-i-learned-translating-business-problems-into-ai-solutions-4cbb58f34ed9?source=rss-9ebbaf021527------2)
 - [Claude Isn’t Hard to Use. It’s Hard to Use Well.](https://medium.com/@laibashakil/claude-isnt-hard-to-use-it-s-hard-to-use-well-1498a86a529a?source=rss-9ebbaf021527------2)
 - [No, AI Doesn’t Make School Pointless. It Makes It More Important.](https://medium.com/@laibashakil/no-ai-doesnt-make-school-pointless-it-makes-it-more-important-04346c1471c8?source=rss-9ebbaf021527------2)
 - [The “AI Bubble” Isn’t What Most People Think It Is](https://medium.com/@laibashakil/the-ai-bubble-isnt-what-most-people-think-it-is-0c2618974932?source=rss-9ebbaf021527------2)
-- [Is AI Making You Lazy? Or Are You Just Not Using It Right?](https://medium.com/@laibashakil/is-ai-making-you-lazy-or-are-you-just-not-using-it-right-b70d1d2ee2da?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
