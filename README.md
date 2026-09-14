@@ -121,11 +121,11 @@
 ### ✍️ latest on medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Said Its AI Coding Tool Wasn’t the Problem. The Permissions Were.](https://medium.com/@laibashakil/amazon-said-its-ai-coding-tool-wasnt-the-problem-the-permissions-were-ec77d92e174b?source=rss-9ebbaf021527------2)
 - [I Don’t Trust AI-Generated Code Either. I Still Don’t Always Check It.](https://medium.com/@laibashakil/i-dont-trust-ai-generated-code-either-i-still-don-t-always-check-it-7a7f5b8ddde5?source=rss-9ebbaf021527------2)
 - [The AI Backlash Isn’t About Trust. It’s About Your Electricity Bill.](https://medium.com/@laibashakil/the-ai-backlash-isnt-about-trust-it-s-about-your-electricity-bill-6e41244ccc2d?source=rss-9ebbaf021527------2)
 - [AI Agents Are Ready. Nobody’s Actually Using Them.](https://medium.com/@laibashakil/ai-agents-are-ready-nobodys-actually-using-them-28ace792a45b?source=rss-9ebbaf021527------2)
 - [The Guy Who Invented That Viral AI Water Stat Doesn’t Believe It Anymore](https://medium.com/@laibashakil/the-guy-who-invented-that-viral-ai-water-stat-doesnt-believe-it-anymore-8495bfb0ad5d?source=rss-9ebbaf021527------2)
-- [If AI Can Write the Code, Why Have Junior Engineers?](https://medium.com/@laibashakil/if-ai-can-write-the-code-why-have-junior-engineers-6539ebe6d9cc?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
