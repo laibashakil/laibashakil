@@ -121,11 +121,11 @@
 ### ✍️ latest on medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone Says “Prompt Engineering Is Dead.” They’re Describing a Different Job.](https://medium.com/@laibashakil/everyone-says-prompt-engineering-is-dead-theyre-describing-a-different-job-0543d3776656?source=rss-9ebbaf021527------2)
 - [I Switched From ChatGPT to Claude for Actual Work. Here’s What Changed.](https://medium.com/@laibashakil/i-switched-from-chatgpt-to-claude-for-actual-work-heres-what-changed-d08580b1a58c?source=rss-9ebbaf021527------2)
 - [Claude Code Didn’t Get Hacked. Its Permissions Did.](https://medium.com/@laibashakil/claude-code-didnt-get-hacked-its-permissions-did-83fa4087a441?source=rss-9ebbaf021527------2)
 - [The Prompt I Stopped Using After Six Months of Daily Claude Code](https://medium.com/@laibashakil/the-prompt-i-stopped-using-after-six-months-of-daily-claude-code-decf94fca55e?source=rss-9ebbaf021527------2)
 - [My AI Backup Plan Was Three Companies. All Three Died at the Same Time.](https://medium.com/@laibashakil/my-ai-backup-plan-was-three-companies-all-three-died-at-the-same-time-d206ce5df712?source=rss-9ebbaf021527------2)
-- [Amazon Said Its AI Coding Tool Wasn’t the Problem. The Permissions Were.](https://medium.com/@laibashakil/amazon-said-its-ai-coding-tool-wasnt-the-problem-the-permissions-were-ec77d92e174b?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
