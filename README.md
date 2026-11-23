@@ -58,11 +58,11 @@
 ### ✍️ latest on medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Mode Isn’t About Saving Tokens. It’s About What Claude Stops Reading.](https://medium.com/@laibashakil/claude-code-code-mode-b1346785ccd6?source=rss-9ebbaf021527------2)
 - [“Don’t Ask Again” Isn’t a Preference. It’s a File.](https://medium.com/@laibashakil/claude-code-dont-ask-again-secrets-github-b16e3d71fbe6?source=rss-9ebbaf021527------2)
 - [Writing Code Was Never the Bottleneck](https://medium.com/@laibashakil/ai-coding-agents-more-code-not-more-software-9266e84a50f3?source=rss-9ebbaf021527------2)
 - [Claude Code’s Game-Clone Ban Isn’t the Story. The Missing Changelog Is.](https://medium.com/@laibashakil/claude-codes-game-clone-ban-isn-t-the-story-the-missing-changelog-is-da29097c56e8?source=rss-9ebbaf021527------2)
 - [Nobody Writes Code By Hand Anymore. Except In These Two Rooms.](https://medium.com/@laibashakil/nobody-writes-code-by-hand-anymore-except-in-these-two-rooms-5f36c7add5b8?source=rss-9ebbaf021527------2)
-- [Everyone Says “Prompt Engineering Is Dead.” They’re Describing a Different Job.](https://medium.com/@laibashakil/everyone-says-prompt-engineering-is-dead-theyre-describing-a-different-job-0543d3776656?source=rss-9ebbaf021527------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
